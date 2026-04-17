@@ -84,20 +84,6 @@ intereses   : IA · Ciberseguridad · Desarrollo de Aplicaciones · Desarrollo W
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinavarro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6c63ff&icon_color=00d4ff&text_color=e0e0e0&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinavarro&layout=donut&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6c63ff&text_color=e0e0e0&langs_count=8)
-&nbsp;&nbsp;
-![GitHub Streak](https://streak-stats.demolab.com?user=joaquinavarro&theme=tokyonight&hide_border=true&background=0a0a0f&ring=6c63ff&fire=00d4ff&currStreakLabel=6c63ff&sideLabels=a0a0b8&dates=a0a0b8)
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquinavarro&theme=tokyo-night&bg_color=0a0a0f&color=6c63ff&line=00d4ff&point=ffffff&hide_border=true)
 
 </div>
