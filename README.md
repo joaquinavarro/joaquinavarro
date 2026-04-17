@@ -71,11 +71,11 @@ intereses   : IA · Ciberseguridad · Desarrollo de Aplicaciones · Desarrollo W
 ## `$ git log --oneline`
 
 ```
-2021 → hoy   🎓  Ingeniería Informática · UA · Desarrollo de Software
-2023          📜  Machine Learning Specialization · Coursera (Andrew Ng)
-2023          🐳  Docker & Kubernetes: Complete Guide · Udemy
-2022          🏆  HackForGood UA — 2º puesto de 18 equipos
-2022          💼  Sistema de Gestión Universitaria · Scrum + Spring Boot + React
+2023 → hoy    🎓  Ingeniería Informática · UA · Desarrollo de Software
+2025          📜  Curso "Decidete a Emprender" UA
+2026          📜  Curso "	Crisis Global Socioambiental y Cambios En Los Estilos De Vida"
+2026          🏆  Participación en EUDIS Defence Hackathon and Mentoring Spring 2026
+2026          🏆  Participación en I Hackathon de Datos de Aguas de Alicante 2026
 ```
 
 ---
