@@ -77,7 +77,7 @@ intereses   : IA · Ciberseguridad · Desarrollo de Aplicaciones · Desarrollo W
 2025          📜  Curso "Decidete a Emprender" UA
 2026          📜  Curso "Crisis Global Socioambiental y Cambios En Los Estilos De Vida"
 2026          🏆  Participación en EUDIS Defence Hackathon and Mentoring Spring 2026
-2026          🏆  Participación en I Hackathon de Datos de Aguas de Alicante 2026
+2026          🏆  Finalista en la primera edición de la Hackathon de Datos de Aguas de Alicante 2026
 ```
 
 ---
